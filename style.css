@@ -1,0 +1,103 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Menu 
+    Template URI: http://wilylab.com
+    Description: This is html5 template
+    Author: Wilylab
+    Author URI: http://wilylab.com
+    Version: 1.0
+	
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    1. Theme Default CSS (body, link color, section etc)
+
+-----------------------------------------------------------------------------------*/
+html, body {height: 100%;}
+.clear {
+	clear:both
+}
+.floatleft {
+  float:left
+}
+.floatright {
+  float:right
+}
+.alignleft {
+  float:left;
+  margin-right:15px;
+  margin-bottom: 15px
+}
+.alignright {
+  float:right;
+  margin-left:15px;
+  margin-bottom: 15px
+}
+.aligncenter {
+  display:block;
+  margin:0 auto 15px
+}
+.fix {
+  overflow:hidden
+}
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+
+.header-top {
+  background: #111 none repeat scroll 0 0;
+  padding: 10px 0;
+}
+.contact-info {
+  color: #fff;
+}
+.contact-info span{
+  margin-right:10px;
+}
+.contact-info span i{
+  margin-right:10px;
+  color:#cc3333;
+}
+.mainmenu nav .contact-info {
+  color: #000;
+  display:none;
+}
+.mainmenu nav .contact-info span {
+  color: #666666;
+  font-size: 12px;
+  line-height: 18px;
+  margin: 5px 0;
+}
+.mainmenu nav .header-top-right {
+  color: #000;
+  display:none;	
+}
+.top-menu ul {
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+.top-menu ul li{
+  display:inline-block;
+}
+.top-menu ul li a {
+  color: #fff;
+  display: block;
+  margin: 0 10px;
+}
+.top-menu,.social-link {
+  display: inline-block;
+}
+.social-link a {
+  color: rgba(255, 255, 255, 0.7);
+  display: inline-block;
+  margin-right: 10px;
+}
+
